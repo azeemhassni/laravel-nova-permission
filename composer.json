@@ -1,5 +1,5 @@
 {
-    "name": "insenseanalytics/laravel-nova-permission",
+    "name": "hassni/laravel-nova-permission",
     "description": "A Laravel Nova tool for Spatie's Permission library.",
     "keywords": [
         "laravel",
